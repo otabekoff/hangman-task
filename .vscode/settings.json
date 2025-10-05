@@ -1,0 +1,13 @@
+{
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "python.formatting.provider": "none",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pycodestyleArgs": ["--max-line-length=79"],
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editorconfig.generateAuto": false
+}
