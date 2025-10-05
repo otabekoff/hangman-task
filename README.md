@@ -1,5 +1,8 @@
 # 🎮 Hangman Game
 
+> [!NOTE]
+> This Hangman game task was solved by Otabek Sadiridinov and reviewed by AI. For feedback or issues, please open a [GitHub issue](https://github.com/otabekoff/hangman-task/issues/new) in this repository.
+
 A classic word-guessing game implemented in Python as part of MIT 6.0001 Problem Set 2. Test your vocabulary skills by guessing letters to reveal the hidden word!
 
 ## 📋 Table of Contents
